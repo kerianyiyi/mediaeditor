@@ -4,8 +4,13 @@
             "preview": "https://pro-video.xiaoheiban.cn/201904/3534373B-40F9-42BA-ABDB-5EAFE03994A5.mp4",
             "title": "抖音最火卡点",
             "desc": "卡点模板，选择18张图片轻松制作",
-            "images": 18,
             "zip": "https://mediaeditor.cn/photomovies/dadian.zip"
+        },
+        {
+            "preview": "https://pro-video.xiaoheiban.cn/201904/3534373B-40F9-42BA-ABDB-5EAFE03994A5.mp4",
+            "title": "模型九宫格",
+            "desc": "九宫格模板，可替换其中四张照片",
+            "zip": "https://mediaeditor.cn/photomovies/jiugongge.zip"
         }
     ]
 }
