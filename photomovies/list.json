@@ -1,16 +1,44 @@
 {
     "list":[
         {
-            "preview": "https://pro-video.xiaoheiban.cn/201904/3534373B-40F9-42BA-ABDB-5EAFE03994A5.mp4",
+            "preview": "https://pro-video.xiaoheiban.cn/201904/516BFB05-363D-475B-B8A2-D93E7F0433F3.mp4",
             "title": "抖音最火卡点",
-            "desc": "卡点模板，选择18张图片轻松制作",
-            "zip": "https://mediaeditor.cn/photomovies/dadian.zip"
+            "desc": "卡点模板，选择28张图片轻松制作",
+            "zip": "https://mediaeditor.cn/photomovies/dadian2.zip",
+            "free": 1,
+            "type": 0
         },
         {
-            "preview": "https://pro-video.xiaoheiban.cn/201904/3534373B-40F9-42BA-ABDB-5EAFE03994A5.mp4",
+            "preview": "https://pro-video.xiaoheiban.cn/201904/D210894D-0BD0-448F-8A3E-D8449FACD125.mp4",
+            "title": "抖音最火卡点2",
+            "desc": "卡点模板，选择18张图片轻松制作",
+            "zip": "https://mediaeditor.cn/photomovies/dadian.zip",
+            "free": 1,
+            "type": 0
+        },
+        {
+            "preview": "https://pro-video.xiaoheiban.cn/201904/950D13F5-E304-4978-8A1C-BA408753AF73.mp4",
             "title": "模型九宫格",
             "desc": "九宫格模板，可替换其中四张照片",
-            "zip": "https://mediaeditor.cn/photomovies/jiugongge.zip"
+            "zip": "https://mediaeditor.cn/photomovies/jiugongge.zip",
+            "free": 1,
+            "type": 0
+        },
+        {
+            "preview": "https://pro-video.xiaoheiban.cn/201904/51609E2A-9617-4892-8114-A9959B5B6E1D.mp4",
+            "title": "跳动九宫格",
+            "desc": "九宫格模板，可替换其中五张照片",
+            "zip": "https://mediaeditor.cn/photomovies/colorgrid9.zip",
+            "free": 1,
+            "type": 0
+        },
+        {
+            "preview": "https://pro-video.xiaoheiban.cn/201904/CDAE90ED-066A-49DD-843A-C937F275D84A.mp4",
+            "title": "Photo Dancing",
+            "desc": "舞动你人生，可替换其中四张照片",
+            "zip": "https://mediaeditor.cn/photomovies/dancing.zip",
+            "free": 1,
+            "type": 0
         }
     ]
 }
