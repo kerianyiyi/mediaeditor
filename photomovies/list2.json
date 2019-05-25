@@ -1,19 +1,19 @@
 {
     "list":[
         {
-            "preview": "https://pro-xhb-video.oss-cn-hangzhou.aliyuncs.com/201905/0AA73BF3-7722-429B-B32C-1A76B93FFB64.mp4",
-            "title": "枪机，哒哒哒",
-            "desc": "别射我，可替换6张图片",
-            "zip": "https://pro-xhb-file.oss-cn-hangzhou.aliyuncs.com/201905/3577F414-F951-4272-851A-7253900C8C3E.zip",
-            "free": 0,
-            "type": 1
-        },
-        {
             "preview": "https://r.chaoxin.com/a81259c/2019-05-16_22/5179e/7fe6f/1558016437_441914_164_300.mp4",
             "title": "抖一抖",
             "desc": "咋们抖一抖，可替换2张图片",
             "zip": "https://r.chaoxin.com/d29889e/2019-05-16_22/cb651/26d47/1558016249_240734.zip",
             "free": 1,
+            "type": 1
+        },
+        {
+            "preview": "https://pro-xhb-video.oss-cn-hangzhou.aliyuncs.com/201905/0AA73BF3-7722-429B-B32C-1A76B93FFB64.mp4",
+            "title": "枪机，哒哒哒",
+            "desc": "别射我，可替换6张图片",
+            "zip": "https://pro-xhb-file.oss-cn-hangzhou.aliyuncs.com/201905/3577F414-F951-4272-851A-7253900C8C3E.zip",
+            "free": 0,
             "type": 1
         },
         {
