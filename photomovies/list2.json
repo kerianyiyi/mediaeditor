@@ -1,6 +1,14 @@
 {
-    "open": 0,
+    "open": 1,
     "list":[
+        {
+            "preview": "https://pro-xhb-video.oss-cn-hangzhou.aliyuncs.com/201906/A82C05B0-02F4-4145-9C18-7AA492D8BDE6.mp4",
+            "title": "可爱卡点",
+            "desc": "咋们臭美下，可替换6张图片",
+            "zip": "https://pro-xhb-file.oss-cn-hangzhou.aliyuncs.com/201906/7BE8A3D3-A12C-4ACD-8635-65B9AA933440.zip",
+            "free": 0,
+            "type": 1
+        },
         {
             "preview": "https://pro-xhb-video.oss-cn-hangzhou.aliyuncs.com/201905/057FC0E5-08EB-4609-9C3D-3DFEC9CA5BE4.mp4",
             "title": "油墨画",
