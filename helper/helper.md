@@ -1,7 +1,15 @@
 #### 成功购买VIP用户如果剪影提示不是会员，请在设置里面恢复VIP身份。如果解决不了问题，可以卸载重装APP再恢复VIP身份。
 
 ###视频教学：
-1. 怎么使用关键帧
+#### 1. 时间轴&画布缩放
+
+<video id="video" controls="" preload="none" poster="http://file.mediaeditor.cn/course/1592666356423864.mp4
+?x-oss-process=video/snapshot,t_1000,f_jpg,m_fast" style="width:300px">
+      <source id="mp4" src="http://file.mediaeditor.cn/course/1592666356423864.mp4
+" type="video/mp4">
+</video>
+
+#### 2.怎么使用关键帧
 
 <video id="video" controls="" preload="none" poster="http://file.mediaeditor.cn/course/A9768993-3435-4610-8FCC-A1257B89C22D.MP4?x-oss-process=video/snapshot,t_1000,f_jpg,m_fast" style="width:300px">
       <source id="mp4" src="http://file.mediaeditor.cn/course/A9768993-3435-4610-8FCC-A1257B89C22D.MP4" type="video/mp4">
