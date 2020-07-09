@@ -1,4 +1,4 @@
-#### 成功购买VIP用户如果剪影提示不是会员，请在设置里面恢复VIP身份。如果解决不了问题，可以卸载重装APP再恢复VIP身份。如需退订，请查看以下链接 https://support.apple.com/zh-cn/HT202039
+#### 成功购买VIP用户如果剪影提示不是会员，请在设置里面恢复VIP身份。如果解决不了问题，可以卸载重装APP再恢复VIP身份。如需退订，请查看以下链接 [https://support.apple.com/zh-cn/HT202039](https://support.apple.com/zh-cn/HT202039)
 
 ###视频教学：
 #### 1. 时间轴&画布缩放
